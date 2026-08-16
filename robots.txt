@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-fl7f4b.indocuansite.online/sitemap.xml
